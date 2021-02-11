@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.form input[type="text"] {
+    height: 40px;
+    padding: 0 20px;
+    border: 1px solid #ccc;
+    font-size: 20px;
+    min-width: 80%;
+
+}
+
+.form button[type="submit"] {
+    border: none;
+    height: 40px;
+    width: 40px;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: #f04c64;
+
+}
